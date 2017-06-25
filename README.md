@@ -8,9 +8,11 @@ This first release includes our '[Graph](http://plumatic.github.io/prismatics-gr
 
 *New in 0.2.0: support for schema.core/defn-style schemas on fnks and Graphs.  See `(doc fnk)` for details.*
 
-Leiningen dependency (Clojars): 
+Leiningen dependency (Clojars):
 
-[![Clojars Project](http://clojars.org/prismatic/plumbing/latest-version.svg)](http://clojars.org/prismatic/plumbing) 
+[![Clojars Project](http://clojars.org/prismatic/plumbing/latest-version.svg)](http://clojars.org/prismatic/plumbing)
+
+[![Build Status](https://travis-ci.org/prismatic/plumbing.svg?branch=master)](https://travis-ci.org/prismatic/plumbing)
 
 [Latest API docs](http://plumatic.github.io/plumbing).
 
